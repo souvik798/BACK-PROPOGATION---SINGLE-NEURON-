@@ -41,6 +41,7 @@ STEP 6:
 Keep repeating the process until the desired output is achieved.
 
 # PROGRAM:
+~~~
 Program to implement random classification.
 Developed by   : SOUVIK KUNDU
 Register Number :  212221230105
@@ -65,9 +66,9 @@ for j in range(0,100):
 print(a)
 print(" ")
 print(w)
+~~~
 # OUTPUT:
 
 ![git](45.png)
-
 # RESULT:
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
